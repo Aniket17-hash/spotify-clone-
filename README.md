@@ -33,8 +33,3 @@ A simple front-end **Spotify Clone** built using only **HTML** and **CSS**. This
 1. Clone the repository or download the ZIP.
 2. Open `index.html` in any modern browser.
 3. Enjoy the UI!
-
-```bash
-git clone https://github.com/yourusername/spotify-clone.git
-cd spotify-clone
-start index.html
